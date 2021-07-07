@@ -6,7 +6,7 @@ class paper
 			isStatic:false,
 			restitution:0.3,
 			friction:100,
-			density:1.2
+			density:2
 
 			
 			}
